@@ -1,6 +1,18 @@
 table{
     width: 50%;
-    border-color: rgb(209, 156, 75);
-    border-style: solid;
-    border: 4px;
+    line-height: 1.5;
+    border solid 3px red;
+}
+thead{
+    background-color: aqua;
+    color: azure;
+    font-size: 18px;
+    font-family: comic sans ms;
+    text-align: center;
+    border:  2px solid burlywood;
+}
+td{
+    border: 1px;
+    font-family: verdana;
+    font-size: 15px;
 }

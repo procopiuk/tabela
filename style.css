@@ -3,6 +3,7 @@ table{
     line-height: 1.5;
     border: 3px rgb(104, 83, 180);
 }
+
 thead{
     background-color: rgb(119, 32, 153);
     color: azure;
@@ -11,9 +12,10 @@ thead{
     text-align: center;
     border:  2px solid rgb(168, 136, 194);
 }
+
 td{
     font-family: verdana;
     font-size: 15px;
-     border-bottom:  1px solid rgb(99, 60, 9)
-     }
+    border-bottom:  1px solid yellow)
+ }
      

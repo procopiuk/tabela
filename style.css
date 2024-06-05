@@ -4,7 +4,7 @@ table{
     border solid 3px red;
 }
 thead{
-    background-color: aqua;
+    background-color: rgb(153, 113, 62);
     color: azure;
     font-size: 18px;
     font-family: comic sans ms;

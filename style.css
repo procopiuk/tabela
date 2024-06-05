@@ -1,15 +1,15 @@
 table{
     width: 50%;
     line-height: 1.5;
-    border: 3px rgb(153, 113, 62);
+    border: 3px rgb(104, 83, 180);
 }
 thead{
-    background-color: rgb(153, 113, 62);
+    background-color: rgb(119, 32, 153);
     color: azure;
     font-size: 18px;
     font-family: comic sans ms;
     text-align: center;
-    border:  2px solid burlywood;
+    border:  2px solid rgb(109, 37, 168);
 }
 td{
     border: 1px;

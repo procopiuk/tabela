@@ -1,7 +1,7 @@
 table{
     width: 50%;
     line-height: 1.5;
-    border solid 3px red;
+    border: 3px rgb(153, 113, 62);
 }
 thead{
     background-color: rgb(153, 113, 62);
@@ -17,3 +17,4 @@ td{
     font-size: 15px;
      border:  2px solid rgb(99, 60, 9)
      }
+     
